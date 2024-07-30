@@ -13,6 +13,7 @@ This is a landing page for all the source code of the cloud oracle projects.
 
 [Optimizing the cloud? Don’t train models. Build oracles!](https://www.cidrdb.org/cidr2024/papers/p47-bang.pdf)
 
+[Ubuntu One multi-cloud object storage trace sublement to "SkyPIE: A Fast & Accurate Oracle for Object Placement"](https://doi.org/10.5281/zenodo.13129407)
 ```
 @article{10.1145/3639310,
     author = {Bang, Tiemo and Douglas, Chris and Crooks, Natacha and Hellerstein, Joseph M.},
@@ -41,5 +42,19 @@ This is a landing page for all the source code of the cloud oracle projects.
   publisher    = {{www.cidrdb.org}},
   year         = {2024},
   url          = {{https://www.cidrdb.org/cidr2024/papers/p47-bang.pdf}}
+}
+```
+
+```
+@dataset{bang_2024_13129407,
+  author       = {Bang, Tiemo},
+  title        = {{Ubuntu One multi-cloud object storage trace 
+                   sublement to "SkyPIE: A Fast \& Accurate Oracle for
+                   Object Placement"}},
+  month        = jul,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.13129407},
+  url          = {https://doi.org/10.5281/zenodo.13129407}
 }
 ```
